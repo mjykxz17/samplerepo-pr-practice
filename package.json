@@ -1,0 +1,11 @@
+{
+  "name": "random-things-test",
+  "version": "1.0.0",
+  "description": "Sample package for PR merge testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet!\""
+  },
+  "author": "Test User",
+  "license": "MIT"
+}
